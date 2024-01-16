@@ -1,0 +1,106 @@
+[
+  {
+    "ResultSet": {
+      "row_header": {
+        "attribute_name": [
+          "Jitter Uplink",
+          "Device Model",
+          "Hour"
+        ]
+      },
+      "row_elements": {
+        "row": [
+          {
+            "value": [
+              "40.92",
+              "Lexun A118",
+              "1699810200000"
+            ]
+          },
+          {
+            "value": [
+              "36.86",
+              "Oppo A37F",
+              "1699810200000"
+            ]
+          },
+          {
+            "value": [
+              "38.63",
+              "Nokia 1280",
+              "1699810200000"
+            ]
+          },
+          {
+            "value": [
+              "54",
+              "Global Sun Combocard",
+              "1699810200000"
+            ]
+          },
+          {
+            "value": [
+              "58",
+              "CECT OS70",
+              "1699810200000"
+            ]
+          }
+        ]
+      },
+      "_xmlns:ns2": "http://www.nsn.com/cem/sai/ws",
+      "__prefix": "ns2"
+    }
+  },
+  {
+    "ResultSet": {
+      "row_header": {
+        "attribute_name": [
+          "Jitter Uplink",
+          "Device Model",
+          "Hour"
+        ]
+      },
+      "row_elements": {
+        "row": [
+          {
+            "value": [
+              "40.92",
+              "Lexun A118",
+              "1699810200000"
+            ]
+          },
+          {
+            "value": [
+              "36.86",
+              "Oppo A37F",
+              "1699810200000"
+            ]
+          },
+          {
+            "value": [
+              "38.63",
+              "Nokia 1280",
+              "1699810200000"
+            ]
+          },
+          {
+            "value": [
+              "54",
+              "Global Sun Combocard",
+              "1699810200000"
+            ]
+          },
+          {
+            "value": [
+              "58",
+              "CECT OS70",
+              "1699810200000"
+            ]
+          }
+        ]
+      },
+      "_xmlns:ns2": "http://www.nsn.com/cem/sai/ws",
+      "__prefix": "ns2"
+    }
+  }
+]

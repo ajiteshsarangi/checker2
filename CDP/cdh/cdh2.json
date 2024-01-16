@@ -1,0 +1,18 @@
+{
+  "ResultSet": {
+    "row_header": {
+      "attribute_name": ["Latency", "Device Type", "Timestamp"]
+    },
+    "row_elements": {
+      "row": [
+        { "value": ["32.15", "Samsung Galaxy S21", "1701020300000"] },
+        { "value": ["28.74", "Apple iPhone 12", "1701020300000"] },
+        { "value": ["42.89", "Google Pixel 5", "1701020300000"] },
+        { "value": ["51.22", "OnePlus 9", "1701020300000"] },
+        { "value": ["46.75", "Xiaomi Mi 11", "1701020300000"] }
+      ]
+    },
+    "_xmlns:ns2": "http://www.nsn.com/cem/sai/ws",
+    "__prefix": "ns2"
+  }
+}
